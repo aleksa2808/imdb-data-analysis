@@ -1,4 +1,4 @@
-# IMDB Top1000 movie data analisys
+# IMDB Top1000 movie data analysis
 
 The goal of this project was to take the dataset of top 1000 IMDB movies from 2006 up to 2016 and apply several social network analysis techniques on it.  
 
