@@ -15,6 +15,7 @@ All of the used data is available in this repository, as well as on [Kaggle](htt
 
 Using Python 3.6.7 do:
 
-`pip install -r requirements`
-
-and then start Jupyter Notebook.
+```
+pip install -r requirements
+jupyter notebook
+```
